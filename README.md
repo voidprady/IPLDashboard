@@ -38,8 +38,8 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ### `Modules used`
-React-vis for charts 
-material UI for general UI components
-papaparse to parse the CSV to JSON
-node-sass for scss to compile style.scss files by webpack
-nuka-carousel for carousel component
+React-vis for charts.<br /> 
+material UI for general UI components.<br />
+papaparse to parse the CSV to JSON.<br />
+node-sass for scss to compile style.scss files by webpack.<br />
+nuka-carousel for carousel component.<br />
