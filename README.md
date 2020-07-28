@@ -1,5 +1,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `Modules used`
+React-vis for charts.<br /> 
+material UI for general UI components.<br />
+papaparse to parse the CSV to JSON.<br />
+node-sass for scss to compile style.scss files by webpack.<br />
+nuka-carousel for carousel component.<br />
+
+### `Bonus features`
+React JS is chosen to develop this project as I have no experience in VueJS. <br />
+My goal is to make the user inclined to watch IPL. Since he already knows about the game of cricket, we have to show him how big, competitve and unpredictable IPL is. Each section on the dashboard is aimed at one of those insights. <br />
+The most interesting part of any sports competition to root for their favorite teams. Hence, I created a prediction calculator in the dashboard which gives a probability of winning on a home ground if the toss is won by the home team<br />
+I also wanted to emphasize more on players from different teams who are exceptional (most man of th match awards) and create a player vs player feature <br />.
+If time permits I would like to use memoization on the components as an optimization technique since JSON data is static. <br />
+The project is made responsive but needs a little more time to write CSS corresponding to mobile dimensions. <br />
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -36,10 +51,3 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-### `Modules used`
-React-vis for charts.<br /> 
-material UI for general UI components.<br />
-papaparse to parse the CSV to JSON.<br />
-node-sass for scss to compile style.scss files by webpack.<br />
-nuka-carousel for carousel component.<br />
