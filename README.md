@@ -10,8 +10,8 @@ nuka-carousel for carousel component.<br />
 ### `Bonus features`
 React JS is chosen to develop this project as I have no experience in VueJS. <br />
 My goal is to make the user inclined to watch IPL. Since he already knows about the game of cricket, we have to show him how big, competitve and unpredictable IPL is. Each section on the dashboard is aimed at one of those insights. <br />
-The most interesting part of any sports competition to root for their favorite teams. Hence, I created a prediction calculator in the dashboard which gives a probability of winning on a home ground if the toss is won by the home team<br />
-I also wanted to emphasize more on players from different teams who are exceptional (most man of th match awards) and create a player vs player feature <br />.
+The most interesting part of any sports competition to root for their favorite teams. Hence, I created a prediction calculator in the dashboard which gives a probability of winning on a home ground if the toss is won by the home team. <br />
+I also wanted to emphasize more on players from different teams who are exceptional (most man of th match awards) and create a player vs player feature. <br />
 If time permits I would like to use memoization on the components as an optimization technique since JSON data is static. <br />
 The project is made responsive but needs a little more time to write CSS corresponding to mobile dimensions. <br />
 
